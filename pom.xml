@@ -67,5 +67,11 @@
           <version>1.20.4-R0.1-SNAPSHOT</version>
           <scope>provided</scope>
       </dependency>
+      <dependency>
+          <groupId>com.ultikits</groupId>
+          <artifactId>UltiTools-API</artifactId>
+          <version>6.0.0.202312150106</version>
+          <scope>provided</scope>
+      </dependency>
   </dependencies>
 </project>
